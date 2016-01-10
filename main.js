@@ -23,7 +23,7 @@ var page = {
             var uRL = el.url;
             var theTitle = el.title;
             var byline = el.byline;
-            $('.mostPop').append("<h2><a href='" + uRL+ "'>" + theTitle + "</a></h2>" + "<h4>"+ byline + "</h4>");
+            $('.mostPop').append("<h2><a href='" + uRL+ "'>" + theTitle + "</a></h2>" + "<h4>"+ byline + "</h4>" + "<br>");
 
 
 
